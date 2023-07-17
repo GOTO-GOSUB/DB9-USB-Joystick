@@ -5,6 +5,8 @@ These boards are simple designs to act as carrier boards for the Arduino Pro Mic
 Please see the excellent work by MickGyver here:
 https://github.com/MickGyver/DaemonBite-Arcade-Encoder
 
-Included here are a single and independent dual channel variations. Please note that at the time of writing these PCB designs have been independently verified
-but not yet manufactured. Once they have been received from my fabricator and verified in the real world this warning will be removed - until then you use
-these board designs at your own risk.
+Included here are a single and independent dual channel variations. 
+
+![Single channel:](https://github.com/GOTO-GOSUB/DB9-USB-Joystick/blob/be34367fa18d9bceb00b7553a62682b2814c7cb6/1%20Ch%209%20Way%20USB.png)
+
+![Single channel:](https://github.com/GOTO-GOSUB/DB9-USB-Joystick/blob/be34367fa18d9bceb00b7553a62682b2814c7cb6/2%20Ch%209%20Way%20USB.png)
